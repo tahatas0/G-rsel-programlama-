@@ -1,1 +1,3 @@
-# G-rsel-programlama-
+# GORSEL-PROGRAMLAMA
+Rahman Taha Taş
+24015221050
